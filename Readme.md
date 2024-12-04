@@ -1,4 +1,4 @@
-# SEDTrails
+# sedTRAILS
 
 
 ## Save diagrams to file

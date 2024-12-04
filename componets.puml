@@ -24,7 +24,7 @@ Container_Boundary(sedtrailsApp, "SEDTrails Application"){
     Rel(particleTracer, statisticalAnalyser, "provides particle pathways to ", "memory, NETCDF file")
 }
 
-' Component(particleSeed, "Particle Seeding")
+
 
 System_Ext(flowSystem, "Eulerian Flow Modeling System", "Simulates flows of water and wind", $type="Any")
 
